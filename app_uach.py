@@ -25,7 +25,7 @@ option=st.selectbox(
 	'Which number do you like best?',
 	df ['first column']
 	
-from streamlit_discourse import st_discourse
+import st_discourse
 
 # https://discuss.streamlit.io/t/discourse-component/8061
 
