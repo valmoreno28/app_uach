@@ -26,9 +26,4 @@ option=st.selectbox(
 	df ['first column']
 	
 
-# https://discuss.streamlit.io/t/discourse-component/8061
 
-discourse_url = "Foro de discusión"
-topic_id = 8061
-
-st_discourse(discourse_url, topic_id)
